@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 28028643ef902664b98ba21564d1ab0a
+timeCreated: 1512327317
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Food: {fileID: 1759773406136580, guid: 1e54404b1dc83a1459d27aa8b8dc2b12, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

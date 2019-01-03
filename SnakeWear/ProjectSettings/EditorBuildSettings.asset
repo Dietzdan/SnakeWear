@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 11fd09fdcfa71b94ab38b915f976b3b7
+  - enabled: 1
+    path: Assets/Scenes/ControlSelect.unity
+    guid: 092aa091bddc57e46a2516421dc16560
+  - enabled: 1
+    path: Assets/Scenes/Snake.unity
+    guid: 5e39871d90e160f41bd3c793d39dc4e9
+  - enabled: 1
+    path: Assets/Scenes/SnakeSwipe.unity
+    guid: 241c30c13d4518b46860be9d78ea91c9
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 4a5e1d1f724a66d4e86733f35e2e93e7
+  - enabled: 1
+    path: Assets/Scenes/SnakeTilt.unity
+    guid: 334807d14a7ca794da649e78d96203c6
